@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> AEHSI </title>
+<style>
+    .contenedor {
+        display: flex;
+    }
+    ._MG_1188 {
+        margin-right: 180px;
+        width: 550px;
+    }
+    .XKXMYHHDCFGDXLKSF3WTHEKJPM {
+        margin-right: 500px;width: 700px;
+    }
+</style>
+
+<link rel="icon" href="favicon.ico">
+</head>
+
+<body style="background-color:rgb(185, 249, 169) ;">
+    <header style="text-align: center;"> <img src="imagen.jpg"alt="Banner" class="Banner" width="1200 px"></header>
+
+    
+    <h1 style="color:red; text-align:center; font-size: 100px; border:5px dashed ;">Facultad de Ingeniería Ambiental</h1>
+   <div class="contenedor">
+    <img class="_MG_1188" src="_MG_1188.JPG"  width="500 px">
+    <img class="XKXMYHHDCFGDXLKSF3WTHEKJPM" src="XKXMYHHDCFGDXLKSF3WTHEKJPM.jpg">
+    </div>
+    <p style="color: black;text-align: left; font-size: 40px; margin-top: 2px;"><b>Somos una Asociación sin fines de lucro</b></p> <p style="color: black;text-align: left; font-size: 40px;"><b>COMPROMETIDOS</b></p><p style="color: black;text-align: left; font-size: 40px;"><b></b></p><p style="color: black;text-align: left;font-size: 40px;"> <b>con la Higiene y la 
+        Seguridad en el trabajo</b></p> <p><img src="WhatsApp Image 2024-09-13 at 12.26.56 AM.jpeg" width="600px"></p>
+        <p>Síguenos en nuestras redes:</p>
+        <p><a href="https://www.facebook.com/AEHSIFIAUNI?locale=es_LA" target="_blank"> https://www.facebook.com/AEHSIFIAUNI?locale=es_LA</a><p>Dale like y sigue nuestra página de Facebook</p>
+        <p><a href="https://www.instagram.com/aehsi_uni/" target="_blank"> https://www.instagram.com/aehsi_uni/</a><p>Dale like y sigue nuestra página de Instagram</p>
+        <p>aehsi@uni.edu.pe</p><p>Si tienes alguna duda o sugerencia escríbenos a nuestro correo</p>
+   
+
+   
+    <p style="text-align: right;"> <a href="https://portal.uni.edu.pe" target="_blank" title="Clickea pero FAAAST"><img src="Uni-logo_transparente_granate.png" width="500px"></a> </p>
+
+</body>
+
+</html>     
